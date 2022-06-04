@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LONGBRIDGE/OneDrive%20-%20LongBridge%20Technologies/Documents/Working.Directory/repo/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/2/ff0a1c9fea224d3ea7d54b968a3d7299/artifacts
+end_time: 1654378086496
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: ff0a1c9fea224d3ea7d54b968a3d7299
+run_uuid: ff0a1c9fea224d3ea7d54b968a3d7299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654378054116
+status: 3
+tags: []
+user_id: LONGBRIDGE

@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/LONGBRIDGE/OneDrive%20-%20LongBridge%20Technologies/Documents/Working.Directory/repo/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: my-experiment-2

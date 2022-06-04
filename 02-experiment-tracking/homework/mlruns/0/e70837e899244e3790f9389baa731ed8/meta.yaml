@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/e70837e899244e3790f9389baa731ed8/artifacts
+end_time: 1654374138637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e70837e899244e3790f9389baa731ed8
+run_uuid: e70837e899244e3790f9389baa731ed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654374100246
+status: 3
+tags: []
+user_id: LONGBRIDGE
